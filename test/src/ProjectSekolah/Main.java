@@ -92,7 +92,6 @@ public class Main {
         sekolah.addGuru(g1); sekolah.addUser(g1);
         sekolah.addGuru(g2); sekolah.addUser(g2);
     }
-
     public static void main(String[] args) {
         Main main = new Main();
         main.mainMenu(main.sekolah, main.scan);
